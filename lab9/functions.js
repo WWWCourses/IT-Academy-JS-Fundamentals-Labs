@@ -26,6 +26,3 @@ function add(x,y) {
 	console.log( x + y );
 }
 
-
-add( 5, 6 );
-add(8,350);
